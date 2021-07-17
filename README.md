@@ -1,2 +1,2 @@
 # Hulu
-Frontend Clone of Hulu Live tv Website
+Frontend Clone of Hulu Live TV Website
